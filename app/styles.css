@@ -1,0 +1,9 @@
+@layer tailwind-preflight, components, tailwind-utilities;
+  
+@layer components {
+.button {
+    background-color: blue;
+    border: solid red 2px;
+    color: white;
+}
+}

@@ -1,0 +1,9 @@
+
+@layer tailwind-preflight {
+    @tailwind base;
+  }
+  
+  @layer tailwind-utilities {
+    @tailwind utilities;
+  }
+  
